@@ -13,7 +13,7 @@
     }
 
     // Set the recipient email address. Update this to YOUR desired email address.
-    $recipient = "<jchia032@uottawa.ca>";
+    $recipient = "<jonas@omni-foods.com>";
 
     // Set the email subject.
     $subject = "New contact from $name";
