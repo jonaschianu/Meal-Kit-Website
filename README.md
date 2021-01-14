@@ -1,5 +1,5 @@
 # OMNIFOOD (Website for Meal Kit)
-![](misc%20images/frontpage.jpg)
+![](misc%20images/frontpage.JPG)
 
 ## Description
 * This program is used to design a webpage for a meal kit
