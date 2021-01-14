@@ -1,7 +1,13 @@
-# OmniFood (Website for MealKit)
+# OMNIFOOD (Website for Meal Kit)
+![Test Image 1](misc images/frontpage.jpg)
 
 ## Description
 * This program is used to design a webpage for a meal kit
  
+## Usage
+* Open index.php in web browser to view website
+
 ## Author
 * Jonas Chianu
+
+
